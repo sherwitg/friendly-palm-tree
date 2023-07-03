@@ -1,5 +1,7 @@
 //未整理部分：
-506
+help-place:506
+
+前端系统学习与时间路线：
 1. 构建静态网页：尝试使用HTML、CSS和JavaScript构建一个简单的静态网页。这可以帮助你熟悉这些语言的基本语法和用法。
 
 2. 开发响应式网页：尝试使用CSS媒体查询和Flexbox/Grid布局来创建一个响应式的网页，使其能够适应不同的屏幕尺寸和设备。
@@ -10,7 +12,7 @@
 
 5. 与后端交互：尝试使用AJAX或Fetch等技术与后端API进行数据交互。这可以帮助你理解前后端的协作方式和数据传输的过程。
 
-1.src-api?-import request from '@/utils/request':
+1.src-api：import request from '@/utils/request':
 https://gitee.com/attojs/vue-request
 2.js语法：
 (1)var:
@@ -35,8 +37,8 @@ vue文件组成部分解读-https://v5.bootcss.com/
 7.3组会整理：
 1.关于对接：
 (1)版本统一：
-node -v:v18.16.1
-vue -v:v3.3.4
+node -v:v14.17.3
+vue -v:v2
 element UI -v:v2.15.13
 (2)gitee
 git创建四个分支,并保留一个主分支，其余三个与各自的版本结合
