@@ -10,12 +10,21 @@
 (2)计算机网络
 (3)开发工具使用：协同->git github;个人->vsCode vue3
 (4)
+2.资源：
+target(1)->mdn中文文档-https://developer.mozilla.org/zh-CN/
+target(1.4)->
+target(3.1)->
+(1)git安装-https://blog.csdn.net/mukes/article/details/115693833
+(2)git学习-https://www.liaoxuefeng.com/wiki/896043488029600/897271968352576
+(3)github REST API入门-https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28
+
 
 # 中期开展：
 1.计划步骤
 (1)研读以前的文档
 (2)学习+改进
 2.详细内容：
+
 3.待办：
 
 # 后期复盘：
@@ -23,5 +32,7 @@
 (1)python 学习(基础->爬虫；卷积网络)
 (2)Native_Bayes复盘 K-means聚类整理
 (3)计算机四大基础：数据结构&算法->计算机网络->操作系统->计算机组成原理
-2.原则整理：
-3.不足反思&疑问：
+(4)git的默认编辑器：vim
+2.资源：
+3.原则整理：
+4.不足反思&疑问：
